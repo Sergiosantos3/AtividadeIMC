@@ -31,37 +31,32 @@ namespace AtividadeIMC
                 double peso = double.Parse(txbPeso.Text);
 
                 double imc = peso / (altura * altura);
-            
+                txbIMC.Text = Math.Round(imc,2).ToString();
 
                 if (imc < 18.50)
                 {
                     txbResultado.Text = "Baixo peso";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
+                    
                 } 
                 else if(imc <= 24.99)
                 {
                     txbResultado.Text = "Peso Normal";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
                 }
                 else if(imc <= 29.99)
                 {
                     txbResultado.Text = "Excesso de peso";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
                 }
                 else if (imc <= 34.99)
                 {
                     txbResultado.Text = "Obesidade garu I";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
                 }
                 else if (imc <= 39.99)
                 {
                     txbResultado.Text = "Obeseidade grau II";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
                 }
                 else
                 {
                     txbResultado.Text = "Obesidade grau III";
-                    txbIMC.Text = $"{peso / (altura * altura)}";
                 }
              }
             else

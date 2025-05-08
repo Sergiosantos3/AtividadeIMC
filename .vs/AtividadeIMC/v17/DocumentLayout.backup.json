@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|c:\\users\\sergio.omsantos\\source\\repos\\atividadeimc\\atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|solutionrelative:atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|c:\\users\\sergio.omsantos\\source\\repos\\atividadeimc\\atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5EE740F4-A53A-4A68-8690-4E029B09821E}|AtividadeIMC\\AtividadeIMC.csproj|solutionrelative:atividadeimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "AtividadeIMC\\Form1.cs",
               "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\AtividadeIMC\\Form1.cs*",
               "RelativeToolTip": "AtividadeIMC\\Form1.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wCEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T16:42:59.131Z",
               "EditorCaption": ""
@@ -39,11 +39,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\AtividadeIMC\\Form1.cs",
               "RelativeDocumentMoniker": "AtividadeIMC\\Form1.cs",
-              "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\AtividadeIMC\\Form1.cs [Design]*",
-              "RelativeToolTip": "AtividadeIMC\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\AtividadeIMC\\AtividadeIMC\\Form1.cs [Design]",
+              "RelativeToolTip": "AtividadeIMC\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:39:30.711Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-05T16:39:30.711Z"
             }
           ]
         }
